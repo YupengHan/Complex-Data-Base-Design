@@ -1,7 +1,7 @@
 
 -- Yupeng Han
 -- EE562 PRJ3 
--- My email is han434@purdue.edu
+-- My email is hanyupeng9406@gmail.com
 -- Please feel free to contact me, I am sure my code can run perfectly for all the queries and I finished all the triggers
 
 create table general_ward(
